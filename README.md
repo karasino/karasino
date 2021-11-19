@@ -18,7 +18,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karasino&show_icons=true&hide_title=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My repos:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karasino&repo=project-lvl1-s388)](https://github.com/karasino/project-lvl1-s388)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karasino&repo=frontend-project-lvl3&theme=gotham)](https://github.com/karasino/project-lvl1-s388)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karasino&repo=frontend-project-lvl2&theme=gotham)](https://github.com/karasino/project-lvl1-s388)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karasino&repo=project-lvl1-s388&theme=gotham)](https://github.com/karasino/project-lvl1-s388)
 
 <!---
 karasino/karasino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
